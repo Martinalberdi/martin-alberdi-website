@@ -3,9 +3,7 @@ title: Martin Alberdi
 role: Candidate at EUI
 bio: WIP
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - XXX
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,9 +43,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Alberdi
 highlight_name: true
-first_name: Alice
+first_name: Martin
 email: ""
 ---
 WIP
